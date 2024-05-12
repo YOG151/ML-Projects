@@ -15,6 +15,7 @@ Welcome to the ML-Projects repository! Here you'll find a collection of projects
 
 ### Libraries Used:
 - **NumPy**: For numerical computing and array operations.
+- **Pandas**: For data manipulation and feature engineering.
 - **Matplotlib**: For data visualization and plotting.
 - **Seaborn**: For statistical data visualization, complementing Matplotlib.
 - **Scikit-learn (sklearn)**: For machine learning algorithms, model building, and evaluation.
