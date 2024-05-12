@@ -1,6 +1,9 @@
-**ML-Projects**
+# **ML-Projects**
 
 Welcome to the ML-Projects repository! Here you'll find a collection of projects focused on data analysis, data cleaning, feature engineering, and model predictions. These projects leverage datasets sourced from Kaggle, a platform known for its diverse range of datasets and competitions.
+
+![Top 100 Machine Learning Projects](https://media.geeksforgeeks.org/wp-content/uploads/20230315175228/Top-100-Machine-Learning-Projects-with-Source-Code-2.png)
+
 
 ### Projects Overview:
 
